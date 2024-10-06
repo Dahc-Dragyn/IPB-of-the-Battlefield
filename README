@@ -1,5 +1,5 @@
 # IPB AI Agent
-#This is just a start the 3 required models need work. I am just learning.
+#This is just a start the 3 required models need work. I am just learning. I think that the predictive model needs the most work. 
 
 This is an AI-powered agent for Intelligence Preparation of the Battlefield (IPB). It combines terrain analysis, predictive modeling, risk assessment, and natural language processing to provide insights and recommendations for military operations.
 
