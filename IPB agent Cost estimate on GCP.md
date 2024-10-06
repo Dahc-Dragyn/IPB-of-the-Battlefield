@@ -1,3 +1,5 @@
+Cost Estimate
+
 1. Compute Engine
 
   Training:  Training your machine learning models (especially if you use deep learning) will require significant compute power. The cost will depend on:   
