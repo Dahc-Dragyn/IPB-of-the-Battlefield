@@ -1,3 +1,6 @@
+Development of this IPB AI Agent is temporarily paused.  The project requires specific data and localized IPB information that I cannot currently access due to security clearance restrictions.
+
+
 # IPB AI Agent
 #This is just a start the 3 required models need work. I am just learning. I think that the predictive model needs the most work. 
 
